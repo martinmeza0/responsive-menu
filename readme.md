@@ -4,7 +4,7 @@
 
 ------------
 
-[!vista previa](vista_previa.gif)
+[!](vista_previa.gif)
 
 ------------
 
